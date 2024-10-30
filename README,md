@@ -41,7 +41,7 @@ O jogo solicita ao jogador que insira seu nome, que é utilizado para personaliz
 
 Desafios e Soluções
 1. Estrutura da Narrativa
-Desafio: Criar uma narrativa interativa com múltiplos caminhos e desfechos pode ser complexo, exigindo uma estrutura clara para garantir que todas as escolhas do jogador resultem em uma história coesa e interessante.
+Desafio: Criar uma narrativa interativa com múltiplos caminhos e desfechos pode ser complexo, exigindo uma estrutura clara para garantir que todas as escolhas do jogador resulta em uma história mais interesante.
 Solução: Organizei o código em funções separadas para cada segmento da narrativa e possíveis escolhas. Isso não só ajudou a manter o código limpo e legível, mas também facilitou a identificação e correção de possíveis inconsistências na história.
 2. Implementação de Enigmas
 Desafio: Integrar enigmas que variam aleatoriamente e verificar a resposta do jogador de forma eficiente.
@@ -50,6 +50,6 @@ Solução: Utilizei a função random.choice para selecionar aleatoriamente um e
 Conclusão
 O desenvolvimento deste jogo foi uma experiência boa para o conhecimento , aprendi muito sobre organização de código, controle de fluxo e interatividade com o usuário.
 Melhorias Futuras:
-Expansão da Narrativa: Adicionar mais ramificações e finais alternativos para tornar a história ainda mais rica e envolvente.
+Expansão da Narrativa: Adicionar mais caminhos e finais alternativos para tornar a história ainda mais rica e envolvente.
 Feedback e Melhoria Contínua: Incorporar feedback dos jogadores para ajustar e melhorar a jogabilidade e narrativa do jogo.
  <h1>
